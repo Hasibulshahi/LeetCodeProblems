@@ -4,6 +4,7 @@ import leet_code_problems.problem_4.FindingMedianOfArrays;
 import leet_code_problems.problem_5.LongestPalindromicSubstring;
 import leet_code_problems.problem_6.ZigZagPrint;
 import top_150_problems.easy.problem_121.BestTimeToBuyAndSellStock;
+import top_150_problems.easy.problem_125.ValidPalindrome;
 import top_150_problems.easy.problem_13.RomanToInteger;
 import top_150_problems.easy.problem_14.LongestCommonPrefix;
 import top_150_problems.easy.problem_169.MajorityElement;
@@ -28,5 +29,6 @@ public class Main {
         RomanToInteger obj13 = new RomanToInteger();
         LengthOfLastWord obj58 = new LengthOfLastWord();
         LongestCommonPrefix obj14 = new LongestCommonPrefix();
+        ValidPalindrome obj125 = new ValidPalindrome();
     }
 }
