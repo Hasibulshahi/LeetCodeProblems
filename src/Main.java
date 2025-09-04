@@ -10,6 +10,7 @@ import top_150_problems.easy.problem_14.LongestCommonPrefix;
 import top_150_problems.easy.problem_169.MajorityElement;
 import top_150_problems.easy.problem_26.RemoveDuplicatElement;
 import top_150_problems.easy.problem_27.RemoveElement;
+import top_150_problems.easy.problem_392.IsSubsequence;
 import top_150_problems.easy.problem_58.LengthOfLastWord;
 import top_150_problems.easy.problem_88.MergeSortedArray;
 
@@ -30,5 +31,6 @@ public class Main {
         LengthOfLastWord obj58 = new LengthOfLastWord();
         LongestCommonPrefix obj14 = new LongestCommonPrefix();
         ValidPalindrome obj125 = new ValidPalindrome();
+        IsSubsequence obj392 = new IsSubsequence();
     }
 }
