@@ -13,6 +13,7 @@ import top_150_problems.easy.problem_27.RemoveElement;
 import top_150_problems.easy.problem_392.IsSubsequence;
 import top_150_problems.easy.problem_58.LengthOfLastWord;
 import top_150_problems.easy.problem_88.MergeSortedArray;
+import top_150_problems.easy.two_pointer.problem_167.TwoSum2;
 
 public class Main {
     public static void main(String[] args) {
@@ -32,5 +33,6 @@ public class Main {
         LongestCommonPrefix obj14 = new LongestCommonPrefix();
         ValidPalindrome obj125 = new ValidPalindrome();
         IsSubsequence obj392 = new IsSubsequence();
+        TwoSum2 obj167 = new TwoSum2();
     }
 }
