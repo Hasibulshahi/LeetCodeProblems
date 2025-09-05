@@ -1,4 +1,4 @@
-package top_150_problems.easy.problem_88;
+package top_150_problems.array_string.problem_88;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;

@@ -3,17 +3,18 @@ import leet_code_problems.problem_3.LongestSubStringLength;
 import leet_code_problems.problem_4.FindingMedianOfArrays;
 import leet_code_problems.problem_5.LongestPalindromicSubstring;
 import leet_code_problems.problem_6.ZigZagPrint;
-import top_150_problems.easy.problem_121.BestTimeToBuyAndSellStock;
-import top_150_problems.easy.problem_125.ValidPalindrome;
-import top_150_problems.easy.problem_13.RomanToInteger;
-import top_150_problems.easy.problem_14.LongestCommonPrefix;
-import top_150_problems.easy.problem_169.MajorityElement;
-import top_150_problems.easy.problem_26.RemoveDuplicatElement;
-import top_150_problems.easy.problem_27.RemoveElement;
-import top_150_problems.easy.problem_392.IsSubsequence;
-import top_150_problems.easy.problem_58.LengthOfLastWord;
-import top_150_problems.easy.problem_88.MergeSortedArray;
-import top_150_problems.easy.two_pointer.problem_167.TwoSum2;
+import top_150_problems.array_string.problem_121.BestTimeToBuyAndSellStock;
+import top_150_problems.two_pointer.problem_125.ValidPalindrome;
+import top_150_problems.array_string.problem_13.RomanToInteger;
+import top_150_problems.array_string.problem_14.LongestCommonPrefix;
+import top_150_problems.array_string.problem_169.MajorityElement;
+import top_150_problems.array_string.problem_26.RemoveDuplicatElement;
+import top_150_problems.array_string.problem_27.RemoveElement;
+import top_150_problems.two_pointer.problem_392.IsSubsequence;
+import top_150_problems.array_string.problem_58.LengthOfLastWord;
+import top_150_problems.array_string.problem_88.MergeSortedArray;
+import top_150_problems.two_pointer.problem_15.ThreeSum;
+import top_150_problems.two_pointer.problem_167.TwoSum2;
 
 public class Main {
     public static void main(String[] args) {
@@ -34,5 +35,6 @@ public class Main {
         ValidPalindrome obj125 = new ValidPalindrome();
         IsSubsequence obj392 = new IsSubsequence();
         TwoSum2 obj167 = new TwoSum2();
+        ThreeSum obj15 = new ThreeSum();
     }
 }

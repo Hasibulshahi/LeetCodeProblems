@@ -1,4 +1,4 @@
-package top_150_problems.easy.problem_27;
+package top_150_problems.array_string.problem_27;
 
 import java.util.Arrays;
 import java.util.Collections;

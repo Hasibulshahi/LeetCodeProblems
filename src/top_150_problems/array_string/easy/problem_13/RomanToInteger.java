@@ -1,4 +1,4 @@
-package top_150_problems.easy.problem_13;
+package top_150_problems.array_string.problem_13;
 
 public class RomanToInteger {
     public RomanToInteger() {

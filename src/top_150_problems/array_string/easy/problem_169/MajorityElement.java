@@ -1,4 +1,4 @@
-package top_150_problems.easy.problem_169;
+package top_150_problems.array_string.problem_169;
 
 import java.util.HashMap;
 import java.util.Map;

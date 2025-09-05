@@ -1,4 +1,4 @@
-package top_150_problems.easy.problem_392;
+package top_150_problems.two_pointer.problem_392;
 
 public class IsSubsequence {
     public IsSubsequence(){

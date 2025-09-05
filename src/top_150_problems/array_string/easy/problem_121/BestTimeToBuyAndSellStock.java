@@ -1,4 +1,4 @@
-package top_150_problems.easy.problem_121;
+package top_150_problems.array_string.problem_121;
 
 public class BestTimeToBuyAndSellStock {
     public BestTimeToBuyAndSellStock() {
