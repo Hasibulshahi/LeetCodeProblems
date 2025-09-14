@@ -4,6 +4,7 @@ import leet_code_problems.problem_4.FindingMedianOfArrays;
 import leet_code_problems.problem_5.LongestPalindromicSubstring;
 import leet_code_problems.problem_6.ZigZagPrint;
 import top_150_problems.array_string.problem_121.BestTimeToBuyAndSellStock;
+import top_150_problems.stack.easy.problem_20.ValidParentheses;
 import top_150_problems.two_pointer.medium.problem_11.ContainerWithMostWater;
 import top_150_problems.two_pointer.problem_125.ValidPalindrome;
 import top_150_problems.array_string.problem_13.RomanToInteger;
@@ -38,5 +39,6 @@ public class Main {
         TwoSum2 obj167 = new TwoSum2();
         ThreeSum obj15 = new ThreeSum();
         ContainerWithMostWater obj11 = new ContainerWithMostWater();
+        ValidParentheses obj20 = new ValidParentheses();
     }
 }
