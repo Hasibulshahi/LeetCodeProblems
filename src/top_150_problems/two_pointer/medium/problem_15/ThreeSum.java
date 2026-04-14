@@ -1,4 +1,4 @@
-package top_150_problems.two_pointer.problem_15;
+package top_150_problems.two_pointer.medium.problem_15;
 
 import java.util.ArrayList;
 import java.util.Arrays;

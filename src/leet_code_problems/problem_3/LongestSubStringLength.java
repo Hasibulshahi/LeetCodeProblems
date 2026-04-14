@@ -26,7 +26,7 @@ public class LongestSubStringLength {
         }
 
         for (int i: set) {
-            System.out.print(i);
+            System.out.println(i);
         }
 
         return maxLength;

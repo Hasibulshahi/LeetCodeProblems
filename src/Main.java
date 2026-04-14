@@ -3,20 +3,20 @@ import leet_code_problems.problem_3.LongestSubStringLength;
 import leet_code_problems.problem_4.FindingMedianOfArrays;
 import leet_code_problems.problem_5.LongestPalindromicSubstring;
 import leet_code_problems.problem_6.ZigZagPrint;
-import top_150_problems.array_string.problem_121.BestTimeToBuyAndSellStock;
+import top_150_problems.array_string.easy.problem_121.BestTimeToBuyAndSellStock;
 import top_150_problems.stack.easy.problem_20.ValidParentheses;
 import top_150_problems.two_pointer.medium.problem_11.ContainerWithMostWater;
-import top_150_problems.two_pointer.problem_125.ValidPalindrome;
-import top_150_problems.array_string.problem_13.RomanToInteger;
-import top_150_problems.array_string.problem_14.LongestCommonPrefix;
-import top_150_problems.array_string.problem_169.MajorityElement;
-import top_150_problems.array_string.problem_26.RemoveDuplicatElement;
-import top_150_problems.array_string.problem_27.RemoveElement;
-import top_150_problems.two_pointer.problem_392.IsSubsequence;
-import top_150_problems.array_string.problem_58.LengthOfLastWord;
-import top_150_problems.array_string.problem_88.MergeSortedArray;
-import top_150_problems.two_pointer.problem_15.ThreeSum;
-import top_150_problems.two_pointer.problem_167.TwoSum2;
+import top_150_problems.two_pointer.easy.problem_125.ValidPalindrome;
+import top_150_problems.array_string.easy.problem_13.RomanToInteger;
+import top_150_problems.array_string.easy.problem_14.LongestCommonPrefix;
+import top_150_problems.array_string.easy.problem_169.MajorityElement;
+import top_150_problems.array_string.easy.problem_26.RemoveDuplicatElement;
+import top_150_problems.array_string.easy.problem_27.RemoveElement;
+import top_150_problems.two_pointer.easy.problem_392.IsSubsequence;
+import top_150_problems.array_string.easy.problem_58.LengthOfLastWord;
+import top_150_problems.array_string.easy.problem_88.MergeSortedArray;
+import top_150_problems.two_pointer.medium.problem_15.ThreeSum;
+import top_150_problems.two_pointer.easy.problem_167.TwoSum2;
 
 public class Main {
     public static void main(String[] args) {

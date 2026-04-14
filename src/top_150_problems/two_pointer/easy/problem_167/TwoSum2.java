@@ -1,4 +1,4 @@
-package top_150_problems.two_pointer.problem_167;
+package top_150_problems.two_pointer.easy.problem_167;
 
 import java.util.Arrays;
 

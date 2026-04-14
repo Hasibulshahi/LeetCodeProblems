@@ -1,4 +1,4 @@
-package top_150_problems.two_pointer.problem_125;
+package top_150_problems.two_pointer.easy.problem_125;
 
 import java.util.Arrays;
 import java.util.stream.Stream;

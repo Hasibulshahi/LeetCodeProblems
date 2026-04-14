@@ -1,4 +1,4 @@
-package top_150_problems.array_string.problem_14;
+package top_150_problems.array_string.easy.problem_14;
 
 public class LongestCommonPrefix {
     public LongestCommonPrefix(){
